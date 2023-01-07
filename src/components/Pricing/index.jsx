@@ -10,7 +10,7 @@ const Pricing = () => {
         className="w-full h-[800px] bg-slate-900 absolute mix-blend-overlay"
       ></div>
       <Container className="relative">
-        <div className="text-white text-center">
+        <div className="text-gray-400 text-center">
           <h3 className="text-3xl">Pricing</h3>
           <h1 className="text-6xl font-bold py-4">
             The right price for your research

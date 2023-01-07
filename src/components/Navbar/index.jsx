@@ -15,7 +15,7 @@ const Navbar = () => {
   ];
   return (
     <nav className="fixed z-50 w-full bg-zinc-200 h-[80px] shadow-lg">
-      <div className="px-16 flex justify-between items-center w-full h-full">
+      <div className="px-8 flex justify-between items-center w-full h-full">
         <div className="text-3xl animate-wiggle font-bold sm:text-5xl">
           Brand.
         </div>
