@@ -46,7 +46,7 @@ const Menu = ({ menuItems = [] }) => {
       </div>
       <div className="gap-4 pr-2 hidden md:flex">
         <Button className="text-xl bg-transparent border-none text-black">
-          Sign In
+          Sign In now
         </Button>
         <Button className="px-4 py-2 text-xl text-white bg-indigo-600 rounded">
           Sign Up
